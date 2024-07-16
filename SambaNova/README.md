@@ -35,11 +35,8 @@ Each of the samples or application examples provided by SambaNova has its own pr
 Refer to respective instructions below.
 
 Main examples:
-* [GPT 13B](./gpt13b.md)
-
-Other examples:
-* [LENET](./lenet.md)
 * [GPT 1.5B](./gpt15b.md)
+
 
 ## Additional Resources
 
