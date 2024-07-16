@@ -22,4 +22,4 @@ chmod +x Gpt1.5B_single_run.sh
 ```bash
 ./Gpt1.5B_single_compile.sh 32
 ```
-For more information refer to [Gpt1.5B](https://docs.alcf.anl.gov/ai-testbed/sambanova/example-programs/). 
+For more information refer to [Gpt1.5B](https://docs.alcf.anl.gov/ai-testbed/sambanova/example-programs/#gpt-15b). 
