@@ -1,4 +1,4 @@
-# BERT-Large on Cerebras
+# Gpt-J on Cerebras
 
 Go to the directory with the GPT-J example. 
 ```bash
