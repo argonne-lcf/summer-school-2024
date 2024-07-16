@@ -33,26 +33,26 @@ In this tutorial, we will cover an overview of the AI accelerators landscape wit
 * [Graphcore](./Graphcore/README.md)  
 * [Groq](./Groq/README.md)
 * [Nvidia](./Nvidia/README.md)
+
    
+### Director’s Discretionary Allocation Program
+
+To gain access to AI Testbeds at ALCF, you may apply for [Director’s Discretionary Allocation Program](https://www.alcf.anl.gov/science/directors-discretionary-allocation-program)
+
+The ALCF Director’s Discretionary program provides “start up” awards to researchers working to achieve computational readiness for for a major allocation award. Once this request is approved, please use the following steps to set up accounts.
 
 
 ## Request Account on AI Testbeds At ALCF
 
 * Request an [ALCF Computer User Account](https://accounts.alcf.anl.gov/accountRequest) if you do not currently have one
 * If you have an ALCF Account that is currently inactive, submit an [account reactivation](https://accounts.alcf.anl.gov/accountReactivate) request*.
-* If you have an active ALCF account, click [Join Project](https://accounts.alcf.anl.gov/joinProject) to submit a membership request. Specify the following in your request: 
-  Project Name: `aitestbed_tutorial`
+* If you have an active ALCF account, click [Join Project](https://accounts.alcf.anl.gov/joinProject) to submit a membership request.
 
 Contact accounts@alcf.anl.gov M-F 9am to 5pm CT. 
 Reach out to us on slack channel `#help-accounts` on [ALCF-AIAccelerator-tutorials](https://join.slack.com/t/alcf-aiacc-tutorials/shared_invite/zt-25yjc7tnm-AlqTNcWrbH0c1KVNEExTuw) Slack. 
 
->Tutorial allocation will stay active till end of July 2024. 
 
-### Director’s Discretionary Allocation Program
 
-To gain access to AI Testbeds at ALCF after tutorial allocation expires apply for [Director’s Discretionary Allocation Program](https://www.alcf.anl.gov/science/directors-discretionary-allocation-program)
-
-The ALCF Director’s Discretionary program provides “start up” awards to researchers working to achieve computational readiness for for a major allocation award.
 
 
 
