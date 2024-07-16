@@ -46,7 +46,7 @@ In this tutorial, we will cover an overview of the AI accelerators landscape wit
 Contact accounts@alcf.anl.gov M-F 9am to 5pm CT. 
 Reach out to us on slack channel `#help-accounts` on [ALCF-AIAccelerator-tutorials](https://join.slack.com/t/alcf-aiacc-tutorials/shared_invite/zt-25yjc7tnm-AlqTNcWrbH0c1KVNEExTuw) Slack. 
 
->SC23 Tutorial allocation will stay active till end of November 2023. 
+>Tutorial allocation will stay active till end of July 2024. 
 
 ### Director’s Discretionary Allocation Program
 
