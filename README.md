@@ -17,10 +17,10 @@ In this tutorial, we will cover an overview of the AI accelerators landscape wit
 | 11.15 - 11.45      |  Vijay Tatkar (SambaNova Systems) [[Slides](./Slides/SambaNova_Platform_Architecture.pdf)]   
 | **11.45 - 12.00**  |  **Break**
 | 12.00 - 12.30      |  Chad Martin (Graphcore)[[Slides](./ANL_Graphcore_Tutorial_2024-07-17.pdf)]                            
-| 12.30 - 01.00      |  Sanjif Shanmugavelu, Hatice Ozen (Groq)                                                               
+| 12.30 - 01.00      |  Sanjif Shanmugavelu, Hatice Ozen (Groq) [[Slides](./Groq_UMichigan_SciFM.pdf )]                                                          
 | **01.00 - 02.00**  |  **Lunch**
 | 02.00 - 02:30      |  Sam Foreman (ANL) (LLMs on Nvidia)
-| 02.30 - 04:00      |  Hands session on the AI Testbed: Sid Raskar, Varuni Sastry (ANL)
+| 02.30 - 04:00      |  Hands session on the AI Testbed: Sid Raskar, Varuni Sastry (ANL) 
 | **04.00 - 04.15**  |  **Break**
 | 04.15 - 04:45      |  Open Discussion, Q/A
 
