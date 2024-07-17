@@ -3,7 +3,7 @@
 ##### Create and and move to the following directory.
 
 ```bash
-mkdir ~/apps/nlp/Gpt1.5B_single
+mkdir -p ~/apps/nlp/Gpt1.5B_single
 cd ~/apps/nlp/Gpt1.5B_single
 ```
 
