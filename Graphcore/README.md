@@ -83,8 +83,8 @@ e.g. `srun --ipus=1 python mnist_poptorch.py`
 ## Run Examples
 
 Refer to respective instrcutions below 
-* [MNIST](./mnist.md)
-<!--- * [Resnet50 using replication factor](./resnet50.md) --->
+<!--- * [MNIST](./mnist.md)
+* [Resnet50 using replication factor](./resnet50.md) --->
 * [GPT2](./gpt2.md)
 
 ```bash
