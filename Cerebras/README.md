@@ -31,7 +31,7 @@ We use example from [Cerebras Modelzoo repository](https://github.com/Cerebras/m
 Clone the modezoo repository.<br>
 
 ```bash
-mkdir ~/R_2.2.1
+mkdir ~/R_2.2.1 # Only if directory does not exist.
 cd ~/R_2.2.1
 git clone https://github.com/Cerebras/modelzoo.git
 cd modelzoo
