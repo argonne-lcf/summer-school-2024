@@ -65,8 +65,7 @@ Groq jobs in the AI Testbed's groqrack are managed by the PBS job scheduler.
 
 <details>
   <summary>Sample run_minilmv2.sh script</summary>
-  
-    ```bash
+
     #!/bin/bash
     # >>> conda initialize >>>
     # !! Contents within this block are managed by 'conda init' !!
@@ -86,8 +85,6 @@ Groq jobs in the AI Testbed's groqrack are managed by the PBS job scheduler.
     cd ~/groqflow/proof_points/natural_language_processing/minilm
     pip install -r requirements.txt
     python minilmv2.py
-
-    ```
     
 </details>
 
