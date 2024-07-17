@@ -54,7 +54,7 @@ See `csctl -h` for more options.
 
 ## Run Examples
 
-Refer to respective instrcutions below 
+Refer to the instructions in the file below to run GPT-J model.
 <!--- * [FC-MNIST](./fc-mnist.md)
 * [BERT-Large](./bert-large.md) --->
 * [GPT-J](./gpt-j.md)
