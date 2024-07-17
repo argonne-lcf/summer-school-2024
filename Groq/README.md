@@ -110,6 +110,7 @@ Other flags that can be used
 Refer to respective instrcutions below 
 * [ResNet50](./resnet50.md)
 * [MiniLMv2](./minilm.md)
+* [GPT2](./GPT2.md)
 
 
 ## Useful Resources 
