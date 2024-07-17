@@ -14,7 +14,7 @@ qsub -I -l walltime=1:00:00
 
 #### Go to directory with GPT2 example. 
 ```bash
-git pull https://github.com/argonne-lcf/summer-school-2024.git
+git clone https://github.com/argonne-lcf/summer-school-2024.git
 cd ~/summer-school-2024/Groq
 ```
 
