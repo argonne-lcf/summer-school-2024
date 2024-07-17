@@ -16,7 +16,7 @@ In this tutorial, we will cover an overview of the AI accelerators landscape wit
 | 10.45 - 11.15      |  Sylvia Howland (Cerebras Systems) [[Slides](./Slides/SC23-ANL-Cerebras-Tutorial.pdf)] 
 | 11.15 - 11.45      |  Vijay Tatkar (SambaNova Systems) [[Slides](./Slides/SC23_Tutorial_SambaNova.pdf)]   
 | **11.45 - 12.00**  |  **Break**
-| 12.00 - 12.30      |  Chad Martin (Graphcore)[[Slides](./Slides/SC23_Tutorial_Graphcore.pdf)]                            
+| 12.00 - 12.30      |  Chad Martin (Graphcore)[[Slides](./ANL_Graphcore_Tutorial_2024-07-17.pdf)]                            
 | 12.30 - 01.00      |  Sanjif Shanmugavelu, Hatice Ozen (Groq) [[Slides](./Slides/SC23_Tutorial_Groq.pdf)]                                                               
 | **01.00 - 02.00**  |  **Lunch**
 | 02.00 - 02:30      |  Sam Foreman (ANL) (LLMs on Nvidia)
