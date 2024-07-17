@@ -64,7 +64,7 @@ Groq jobs in the AI Testbed's groqrack are managed by the PBS job scheduler.
 ### Schedule batch Job
 
 <details>
-  <summary>Sample run_minilmv2.sh script</summary>
+  <summary>Create a sample run_minilmv2.sh script as below</summary>
 
     #!/bin/bash
     # >>> conda initialize >>>
@@ -88,9 +88,14 @@ Groq jobs in the AI Testbed's groqrack are managed by the PBS job scheduler.
     
 </details>
 
-Then run the script as a batch job with PBS:
+Ensure you have a groqflow conda environment activated.
 ```bash
-qsub run_minilmv2.sh
+conda activate groqflow
+```
+
+Then run the script as a batch job with PBS. This will reserve a full eight-card(chip) node.
+```bash
+qsub -l  select=1,place=excl run_minilmv2.sh
 ```
 
 
@@ -106,11 +111,18 @@ Other flags that can be used
 -l groq_accelerator=1
 ```
 
-## Run Examples
+Then activate your groqflow environment, and run python scripts with
+```bash
+conda activate groqflow
+cd ~/groqflow/proof_points/natural_language_processing/minilm
+pip install -r requirements.txt
+python minilmv2.py
+```
+<!--- ## Run Examples
 
 Refer to respective instrcutions below 
 * [ResNet50](./resnet50.md)
-* [MiniLMv2](./minilm.md)
+* [MiniLMv2](./minilm.md) --->
 
 
 ## Useful Resources 
