@@ -19,7 +19,7 @@ In this tutorial, we will cover an overview of the AI accelerators landscape wit
 | 12.00 - 12.30      |  Chad Martin (Graphcore)[[Slides](./Slides/ANL_Graphcore_Tutorial_2024-07-17.pdf)]                            
 | 12.30 - 01.00      |  Sanjif Shanmugavelu, Hatice Ozen (Groq) [[Slides](./Slides/Groq_UMichigan_SciFM.pdf)]                                                      
 | **01.00 - 02.00**  |  **Lunch**
-| 02.00 - 02:30      |  Sam Foreman (ANL) (LLMs on Nvidia)
+| 02.00 - 02:30      |  Sam Foreman (ANL) (LLMs on Nvidia) [[Slides](https://samforeman.me/talks/llms-on-polaris/#/title-slide)]
 | 02.30 - 04:00      |  Hands session on the AI Testbed: Sid Raskar, Varuni Sastry (ANL) 
 | **04.00 - 04.15**  |  **Break**
 | 04.15 - 04:45      |  Open Discussion, Q/A
